@@ -1,5 +1,3 @@
-# while-condition-CPF-CNPJ-Component-cons
-while(condition,CPF,CNPJ,Component,cons
 while (condition,CPF,CNPJ,Component,constructor) ();{ 
     class CPF Component CNPJ Component (condition CPF/CNPJ){
         constructor(props) {
