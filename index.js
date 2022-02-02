@@ -1,8 +1,8 @@
 while (condition,CPF,CNPJ,Component,constructor) ();{ 
-    class CPF Component CNPJ Component (condition CPF/CNPJ){
+    class CPF Component CNPJ Component (condition CPF/CNPJ/CEP){
         constructor(props) {
             super(props);
-            this.state = {  CPF, CNPJ};
+            this.state = {  CPF, CNPJ,CEP};
         }
         render() {
             return (
@@ -14,7 +14,7 @@ while (condition,CPF,CNPJ,Component,constructor) ();{
     export ; 
     console.warn(log); 
     while (condition) { 
-        setInterval(() =>CPF , CNPJ {
+        setInterval(() =>CPF , CNPJ  CEP {
             
         }, interval); 
         define([
